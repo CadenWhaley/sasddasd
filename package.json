@@ -1,5 +1,5 @@
 {
-	"name": "discord-bot-client",
+	"name": "sasddasd",
 	"version": "3.1.0",
 	"description": "Discord Bot Client - login into discord with a bot token",
 	"main": "index.js",
@@ -9,7 +9,7 @@
 		"electron": "electron electron/electron.js"
 	},
 	"keywords": [],
-	"author": "Flam3rboy",
+	"author": "",
 	"license": "ISC",
 	"dependencies": {
 		"express": "^4.17.1"
